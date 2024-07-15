@@ -1,0 +1,104 @@
+{
+	"recipes": [
+	{
+		"id": 1,
+		"name": "Grilled Chicken Salad",
+		"type": "Healthy",
+		"calories": 350,
+		"description": "A refreshing mix of grilled chicken, lettuce, tomatoes, cucumbers, and a light vinaigrette.",
+		"temperature": "Cold",
+		"ingredients": ["Chicken", "Lettuce", "Tomatoes", "Cucumbers", "Vinaigrette"],
+		"price": 12.99
+	},
+	{
+		"id": 2,
+		"name": "Spaghetti Carbonara",
+		"type": "Unhealthy",
+		"calories": 750,
+		"description": "Classic Italian pasta with creamy sauce, pancetta, and parmesan cheese.",
+		"temperature": "Hot",
+		"ingredients": ["Spaghetti", "Cream", "Pancetta", "Parmesan"],
+		"price": 14.99
+	},
+	{
+		"id": 3,
+		"name": "Quinoa and Avocado Bowl",
+		"type": "Healthy",
+		"calories": 400,
+		"description": "A nutritious bowl of quinoa, avocado, black beans, corn, and a lime dressing.",
+		"temperature": "Cold",
+		"ingredients": ["Quinoa", "Avocado", "Black Beans", "Corn", "Lime Dressing"],
+		"price": 11.99
+	},
+	{
+		"id": 4,
+		"name": "Cheeseburger",
+		"type": "Unhealthy",
+		"calories": 800,
+		"description": "Juicy beef patty with cheddar cheese, lettuce, tomato, and a side of fries.",
+		"temperature": "Hot",
+		"ingredients": ["Beef Patty", "Cheddar Cheese", "Lettuce", "Tomato", "Fries"],
+		"price": 13.99
+	},
+	{
+		"id": 5,
+		"name": "Vegetable Stir Fry",
+		"type": "Healthy",
+		"calories": 450,
+		"description": "A mix of stir-fried vegetables served with a soy-ginger sauce over brown rice.",
+		"temperature": "Hot",
+		"ingredients": ["Vegetables", "Soy-Ginger Sauce", "Brown Rice"],
+		"price": 10.99
+	},
+	{
+		"id": 6,
+		"name": "Chicken Wings",
+		"type": "Unhealthy",
+		"calories": 900,
+		"description": "Crispy chicken wings tossed in a spicy buffalo sauce, served with celery and blue cheese dressing.",
+		"temperature": "Hot",
+		"ingredients": ["Chicken Wings", "Buffalo Sauce", "Celery", "Blue Cheese Dressing"],
+		"price": 12.99
+	},
+	{
+		"id": 7,
+		"name": "Greek Yogurt Parfait",
+		"type": "Healthy",
+		"calories": 250,
+		"description": "Layers of Greek yogurt, fresh berries, and granola.",
+		"temperature": "Cold",
+		"ingredients": ["Greek Yogurt", "Berries", "Granola"],
+		"price": 8.99
+	},
+	{
+		"id": 8,
+		"name": "Pepperoni Pizza",
+		"type": "Unhealthy",
+		"calories": 950,
+		"description": "Classic pizza with pepperoni, mozzarella cheese, and tomato sauce.",
+		"temperature": "Hot",
+		"ingredients": ["Pizza Dough", "Pepperoni", "Mozzarella", "Tomato Sauce"],
+		"price": 15.99
+	},
+	{
+		"id": 9,
+		"name": "Caesar Salad",
+		"type": "Healthy",
+		"calories": 350,
+		"description": "Crisp romaine lettuce, Caesar dressing, croutons, and parmesan cheese.",
+		"temperature": "Cold",
+		"ingredients": ["Romaine Lettuce", "Caesar Dressing", "Croutons", "Parmesan"],
+		"price": 9.99
+	},
+	{
+		"id": 10,
+		"name": "Chocolate Lava Cake",
+		"type": "Unhealthy",
+		"calories": 600,
+		"description": "Decadent chocolate cake with a molten chocolate center, served with vanilla ice cream.",
+		"temperature": "Hot",
+		"ingredients": ["Chocolate Cake", "Molten Chocolate", "Vanilla Ice Cream"],
+		"price": 7.99
+	}
+  ]
+}
